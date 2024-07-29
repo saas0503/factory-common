@@ -1,4 +1,4 @@
-package common
+package futils
 
 import (
 	"crypto/rand"
